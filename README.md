@@ -1,6 +1,7 @@
 # Task---1st-Calculator-Project
 
-!
+![image](https://github.com/prince526/Task---1st-Calculator-Project/assets/121991511/a51b25e7-3475-42c0-a099-94f0d06be694)
+
 
 
 This project is a simple calculator that allows users to perform basic mathematical operations. It was built using HTML, CSS, and JavaScript.
