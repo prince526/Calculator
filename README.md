@@ -1,6 +1,6 @@
 # Task---1st-Calculator-Project
 
-"C:\Users\thaku\Downloads\cal (2).png"
+!😊
 
 
 This project is a simple calculator that allows users to perform basic mathematical operations. It was built using HTML, CSS, and JavaScript.
