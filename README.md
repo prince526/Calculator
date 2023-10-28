@@ -1,6 +1,5 @@
 # Task---1st-Calculator-Project
 Task 1 - Calculator Project
-Screenshot 2023-10-18 172707
 
 This project is a simple calculator that allows users to perform basic mathematical operations. It was built using HTML, CSS, and JavaScript.
 
